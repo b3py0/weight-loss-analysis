@@ -1,2 +1,2 @@
 # weight-loss-analysis
-data from myfitnesspal from 2018-2021
+Data from myfitnesspal from 2018-2021
